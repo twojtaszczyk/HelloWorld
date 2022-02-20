@@ -1,3 +1,5 @@
+package javastarter.calculator;
+
 public class PetSong {
 
     public static void main(String[] args) {
